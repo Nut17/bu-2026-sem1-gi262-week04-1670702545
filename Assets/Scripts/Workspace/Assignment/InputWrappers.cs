@@ -25,6 +25,7 @@ namespace Assignment
             return new LinkedList<string>(values ?? Array.Empty<string>());
         }
     }
+    
 
     [Serializable]
     public class GameEventLinkedListInput
